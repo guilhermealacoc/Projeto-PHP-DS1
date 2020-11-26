@@ -1,5 +1,13 @@
-# Projeto-PHP-DS1
-Projeto de site de vendas em PHP
-Desenvolvido para a matéria de Desenvolvimento para Servidores I
-Professor Fernando Leonid Camelo
-Desenvolvido por:  Guilherme de Alacoc, Jefersson Couto e Tony Makoto
+# Sistema de Controle de Acesso de Estacionamento
+
+Objetivo de estudo de NodeJs e React.
+
+- [ ] Login
+- [ ] Cadastro de Usuário
+- [ ] Cadastro de Veículos
+- [ ] Exclusão de Cadastro
+- [ ] Edição de Cadastro
+- [ ] Consulta de Histórico
+- [ ] Calculo de Valor
+- [ ] Cadastro de Valores
+- [ ] Edição de Valores
